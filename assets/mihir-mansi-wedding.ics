@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mihir & Mansi//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mihir-mansi-wedding-20261215@mihir-mansi-weddding-invitation.vercel.app
+DTSTAMP:20261025T000000Z
+DTSTART:20261215T052000Z
+DTEND:20261215T083000Z
+SUMMARY:Wedding of Mihir & Mansi
+DESCRIPTION:Wedding ceremony of Chi. Mihir & Chi. Sau. Kan. Mansi at 10:50 AM\, followed by lunch.\nInvitation: https://mihir-mansi-weddding-invitation.vercel.app
+LOCATION:Suraburdi Meadows\, Waddhamna\, Nagpur-Amravati Hwy\, Nagpur-440021
+URL:https://mihir-mansi-weddding-invitation.vercel.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mihir & Mansi's wedding is tomorrow!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
